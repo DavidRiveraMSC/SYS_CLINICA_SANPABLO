@@ -1,0 +1,127 @@
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+E:\DAVID\Proyecto Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+F:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+E:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+G:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+J:\Informacion\Sistemas Automatizados\Sistema Clinica\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\MySql.Data.dll
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csprojResolveAssemblyReference.cache
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Consulta.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.PacientesDeBaja.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe.config
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\MySqlBackup.dll
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Medicamentos.resources
+C:\Users\David Rivera\Desktop\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Expedientes.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe.config
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.exe
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Clinica_SanPablo.pdb
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\MySql.Data.dll
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AcercaDe.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Consulta.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.ProximaConsulta.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Expedientes.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.FormBase.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.frmReporteConsulta.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.frmReporteRecetas.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Login.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Logo.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Medicamentos.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.MenuPrincipal2.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevaReceta.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.NuevoPaciente.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Opciones2.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.PacientesActivos.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.PacientesDeBaja.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Properties.Resources.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.AgregarMedicamento.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.csproj.GenerateResource.Cache
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\RdlCompile.cache
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\RdlCompile.compiled
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.exe
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.pdb
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.Imagenes.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.frmImprimirRecetas.resources
+A:\Sistemas Automatizados\Clinica_SanPablo\Clinica_SanPablo\obj\x86\Debug\Clinica_SanPablo.frmReporteRecetas2.resources
